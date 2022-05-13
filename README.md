@@ -87,12 +87,12 @@ The analytical data, combined with proper ETL pipelines, utilization of interact
 
 World map with key touristic cities, best lodging options, and weather information:
 
-![](Vacation_Search/WeatherPy_vacation_map.png)
+![image](Vacation_Search/WeatherPy_vacation_map.png)
 
 Selected cities for sample itinerary:
 
-![](Vacation_Itinerary/WeatherPy_travel_map_markers.png)
+![image](Vacation_Itinerary/WeatherPy_travel_map_markers.png)
 
 Traced sample itinerary:
 
-![](Vacation_Itinerary/WeatherPy_travel_map.png)
+![image](Vacation_Itinerary/WeatherPy_travel_map.png)
