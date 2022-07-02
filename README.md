@@ -6,7 +6,7 @@
 
 ### Initial approach
 
-We were approached by the analytics team of the**PlanMyTrip** app, a top travel technology company that specializes in internet-related services in the hotel and lodging industry. 
+We were approached by the analytics team of the **PlanMyTrip** app, a top travel technology company that specializes in internet-related services in the hotel and lodging industry. 
 
 Specifically, the head of analysis for user interface team asked us to help with the structural analytics of their search-based operation.
 
